@@ -1,1 +1,1 @@
-json flask hashlib
+flask==1.1.2
